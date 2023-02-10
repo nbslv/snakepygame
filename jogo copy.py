@@ -4,7 +4,7 @@ from sys import exit
 import random
 from random import randint
 pygame.init()
-
+#TESTE COMMIT
 #CÉDITOS MÚSICA UTILIZADA: Nameless: The Hackers RPG Soundtrack, Album - BoxCat Games. Licença de uso Comum Creative, link de acesso para visualização da licença: https://creativecommons.org/licenses/by/3.0/legalcode
 #obs: somente a música de fundo pode ser mp3, os demais arquivos de somprecisam ser wav
 pygame.mixer.music.set_volume(0.5)
