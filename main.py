@@ -196,7 +196,11 @@ while True:
         if event.type == QUIT:
             pygame.quit()
 
+<<<<<<< HEAD
 #Coordenada de movimentos (constante, alterando a di,,eção) a partir do teclado:
+=======
+#Coordenada de movimentos (constante, alterando a direção) a partir do teclado:
+>>>>>>> develop
 #AWSD e setas direcionais
 #bug/feature - Necessário rever lógica com uma validação para as direções, cobra colide consigo mesma se as teclas direcionais são apertadas muito rapido em algumas situações.
         if event.type == KEYDOWN:
