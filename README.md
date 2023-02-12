@@ -59,4 +59,6 @@ Esse projeto está sob licença MIT.
 ## Observações
 
 Projeto ainda em desenvolvimento para alguns ajustes.
-Necessário corrigir lógica para evitar que o quadrado amarelo ''drope'' na tela em uma localização que já esteja sendo ocupada pelo corpo da cobra, implementar boas práticas e limpeza do código.
+Necessário corrigir lógica para evitar que o quadrado amarelo ''drope'' na tela em uma localização que já esteja sendo ocupada pelo corpo da cobra.
+Bug a ser fixado: Problemas com muitas teclas apertadas rapidamente de mudanças de direção, ocasionando game over. 
+Implementar boas práticas e limpeza do código.
