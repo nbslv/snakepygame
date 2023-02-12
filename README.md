@@ -38,7 +38,7 @@ A movimentação da cobra pode ser feita por meio das setas direcionais ou das t
 
 A dificuldade aumenta gradativamente conforme pontuação, resultando no aumento da velocidade.
 
-- O jogo está disponível e rodando, jogue o Snake Game baixando o arquivo executável clicando [AQUI](https://github.com/nbslv/snakepygame/blob/master/dist/Snake%20Game.exe)
+- O jogo está disponível e rodando, jogue o Snake Game baixando o arquivo executável clicando [AQUI](https://github.com/nbslv/snakepygame/raw/master/dist/Snake%20Game.exe)
 
 ## 🎨 Imagens
 
