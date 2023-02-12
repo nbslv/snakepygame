@@ -38,7 +38,7 @@ A movimentação da cobra pode ser feita por meio das setas direcionais ou das t
 
 A dificuldade aumenta gradativamente conforme pontuação, resultando no aumento da velocidade.
 
-- O jogo está disponível e rodando, [jogue Snake Game online no seu navegador clicando aqui](https:)
+- O jogo está disponível e rodando, jogue o Snake Game baixando o arquivo executável clicando [AQUI](https://github.com/nbslv/snakepygame/blob/master/dist/Snake%20Game.exe)
 
 ## 🎨 Imagens
 
@@ -48,7 +48,7 @@ As imagens modificadas e utilizadas neste projeto possuem licença Creative Comm
 
 Os sons e músicas utilizados neste projeto possuem licença Creative Commons.
 
-A música utilizada comotema de fundo neste projeto, foi retirada do site [FMA](https://freemusicarchive.org/), albúm 'Nameless: The Hackers RPG Soundtrack', faixa 19, nome da música: Mission, autor BoxCat Games.
+A música utilizada como tema de fundo neste projeto, foi retirada do site [FMA](https://freemusicarchive.org/), albúm 'Nameless: The Hackers RPG Soundtrack', faixa 19, nome da música: Mission, autor BoxCat Games.
 
 Os efeitos sonoros de start (keyget.wav), colisão(bump.wav) e game over (breakblock.wav) utilizados foram retirados do site [TMK](https://themushroomkingdom.net/media/smb/wav).
 
